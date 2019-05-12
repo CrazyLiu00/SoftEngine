@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3461995523
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: timg.bundle
+      Dependencies: {}
+    Info_1:
+      Name: mat_mat.bundle
+      Dependencies:
+        Dependency_0: timg.bundle
+    Info_2:
+      Name: prefab_cube.bundle
+      Dependencies:
+        Dependency_0: mat_mat.bundle

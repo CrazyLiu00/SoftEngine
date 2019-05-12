@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2919513491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed42eb96dc7d80991244089dfd00d3ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/prefab/mat.mat
+Dependencies:
+- /Users/liujing/Desktop/UnityProject/SoftEngine/Assets/StreamingAssets/timg.bundle
